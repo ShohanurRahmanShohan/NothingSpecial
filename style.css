@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color:#9BA78F;
+}
+nav {
+  text-align: center;
+  font-family: 'Akaya Kanadaka', cursive;
+  background-color:#A269A6;
+  font-size: 40px;
+  color: #81DCF4;
+}
+.container {
+  background-color: black;
+  color:white ;
+  margin: auto;
+  margin-top: 30vh;
+  max-width: 400px;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  border-radius: 20px;
+}
+#btn {
+  border: none ;
+  background-color: #A269A6;
+  width: 80px;
+  height: 30px;
+  margin: 2px;
+  border-radius: 9%;
+  color: #81DCF4;
+  font-family: 'Akaya Kanadaka', cursive;
+  font-size: 20px;
+}
